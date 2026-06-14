@@ -1,5 +1,7 @@
 # Spring Boot + JUnit 5 Tutorial
 
+[![CI](https://github.com/kogawa1223/spring-boot-junit-tutorial/actions/workflows/ci.yml/badge.svg)](https://github.com/kogawa1223/spring-boot-junit-tutorial/actions/workflows/ci.yml)
+
 **Java / Spring Boot / JUnit 5** を1リポジトリで束ねて学ぶ学習リポジトリ。
 公式の [Spring Boot Getting Started](https://spring.io/guides/gs/spring-boot) と [JUnit 5 User Guide](https://docs.junit.org/current/user-guide/) を素材に、**小さくても本物の REST API を作り、それをスライス／統合テストで検証する**構成にした。
 
